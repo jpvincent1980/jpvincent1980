@@ -1,10 +1,16 @@
-## Bonjour, je m'appelle Jean-Philippe 🤝
+## Bonjour, je m'appelle Jean-Philippe. 🤝
 
-### 👨‍💻  Je suis développeur et j'habite en région Nantaise
+### 👨‍💻  Je suis développeur et j'habite en région Nantaise.
 
 ### Je code en ``.py``, ``.html``, ``.css`` et ``.js``.
 
-### J'utilise ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) pour le développement web.
+### Pour le développement web, j'utilise :
+
+<img height="50px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Logo django" />
+
+### Voici un aperçu des différents projets que vous pourrez trouver sur mon profil GitHub :
+
+
 
 ### Retrouvez-moi sur :
 
