@@ -13,4 +13,8 @@
 ### 👋 Retrouvez-moi sur :
 
 <a href="https://twitter.com/JeanPhilippeV15"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Logo Twitter" /></a>
+<<<<<<< HEAD
 <a href="https://www.linkedin.com/in/jean-philippe-vincent-1509832/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo LinkedIn" /></a>
+=======
+<a href="https://www.linkedin.com/in/jean-philippe-vincent-1509832/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo LinkedIn" /></a>
+>>>>>>> dd4d1a1d5f0c2c79629e8437dabe021e5ef8dd1d
