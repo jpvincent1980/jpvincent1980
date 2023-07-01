@@ -12,7 +12,7 @@
 
 ### <div style="margin-left:20px"> 👉J'écris mes scripts en 🐍
 
-### <div style="margin-left:20px"> 👉Je crée les anomalies dans <img src="https://wac-cdn.atlassian.com/dam/jcr:ab384028-e8a3-4dd1-8b45-6d564ef7936a/Jira%20Software_24.svg?cdnVersion=1084" height="15px" alt="Jira Software">
+### <div style="margin-left:20px"> 👉Je signale les anomalies dans <img src="https://wac-cdn.atlassian.com/dam/jcr:ab384028-e8a3-4dd1-8b45-6d564ef7936a/Jira%20Software_24.svg?cdnVersion=1084" height="15px" alt="Jira Software">
 
 ### <div style="margin-left:20px"> 👉Je documente mon travail dans <img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=1084" height="15px" alt="Confluence">
 
