@@ -12,7 +12,7 @@
 
 ### Je documente mon travail dans <img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:d6e2d2db-e58a-40f7-9d1a-d6d22a335c96/Confluence-blue.svg?cdnVersion=1084" height="15px" alt="Confluence">
 
-### Je teste les APIS avec Postman
+### Je teste les APIS avec <img src="https://voyager.postman.com/logo/postman-logo-orange.svg" height="25px" alt="Confluence">
 
 ### N'hésitez pas à parcourir mes différents projets GitHub ! 🕵
 
