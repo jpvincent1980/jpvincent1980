@@ -2,7 +2,7 @@
 
 <br>
 
-### 👨‍💻  Je suis Testeur QA Automatisation / Développeur Python.
+### 👨‍💻  Je suis Testeur QA Automaticien / Développeur Python.
 
 <br>
 
